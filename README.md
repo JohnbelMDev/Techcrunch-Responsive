@@ -1,6 +1,6 @@
 # Techcrunch-Responsive
 
-# Yelp-Responsive
+
 
  Develop a fully responsive wesbite for mobile, tablet, desktop.
  
